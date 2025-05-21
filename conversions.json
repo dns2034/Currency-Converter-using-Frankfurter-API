@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 40.0,
+        "base": "EUR",
+        "target": "PHP",
+        "converted": 2497.32
+    },
+    {
+        "amount": 50.0,
+        "base": "EUR",
+        "target": "USD",
+        "converted": 55.93
+    },
+    {
+        "amount": 50.0,
+        "base": "EUR",
+        "target": "USD",
+        "converted": 55.97
+    },
+    {
+        "amount": 101.0,
+        "base": "USD",
+        "target": "PHP",
+        "converted": 5631.26
+    }
+]
